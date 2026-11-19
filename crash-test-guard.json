@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adirwt852-cloud/crash-test-guard/releases/download/v1.0.0/crash-test-guard_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/adirwt852-cloud/crash-test-guard/releases/download/v1.1.0/crash-test-guard_1.1.0_windows_amd64.zip",
             "bin": [
                 "crash-test-guard.exe"
             ],
-            "hash": "0fc40fc21dceb978ace05d558c7c6ab5159b5c0af0fb752b4d025ed1cb7de4d6"
+            "hash": "fd0506be08cf1e3f0b2f8637a0ff01025212ad512f0b851f0f81ddd8eaa328d0"
         }
     },
     "homepage": "https://github.com/crash-test-guard/crash-test-guard",
